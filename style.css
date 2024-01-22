@@ -1,7 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    background-image: url("Images/birb.png");
+    background-image: url("images/birb.png");
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
